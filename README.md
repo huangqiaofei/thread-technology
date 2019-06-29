@@ -1,0 +1,2 @@
+# thread-technology
+多线程相关的一些例子设计Atomic、Synchronized、ThreadPoolExecutor、Timer的使用
